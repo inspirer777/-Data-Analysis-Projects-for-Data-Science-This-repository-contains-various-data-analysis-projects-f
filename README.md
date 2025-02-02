@@ -28,11 +28,11 @@ This project focuses on applying **Principal Component Analysis (PCA)** to a cus
 
 ### 3. **final_project**
 
-# Wine Quality Data Analysis
+Wine Quality Data Analysis
 
 This repository contains an R-based analysis of the wine quality dataset (`RW.xlsx`). The analysis includes techniques such as Principal Component Analysis (PCA), Factor Analysis, and visualization to explore and model the relationship between wine quality and its various features.
 
-## Description
+Description
 
 This R script performs data analysis using several techniques to understand the wine quality dataset and visualize the results. The key tasks include:
 
