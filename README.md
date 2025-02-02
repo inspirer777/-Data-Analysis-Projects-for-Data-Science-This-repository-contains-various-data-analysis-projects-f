@@ -28,7 +28,22 @@ This project focuses on applying **Principal Component Analysis (PCA)** to a cus
 
 ### 3. **final_project**
 
-This folder contains the final project that ties together various data analysis techniques. It may include multiple steps of data wrangling, model building, and evaluation. The project uses advanced machine learning algorithms, and the objective is to produce accurate predictions and insights.
+# Wine Quality Data Analysis
+
+This repository contains an R-based analysis of the wine quality dataset (`RW.xlsx`). The analysis includes techniques such as Principal Component Analysis (PCA), Factor Analysis, and visualization to explore and model the relationship between wine quality and its various features.
+
+## Description
+
+This R script performs data analysis using several techniques to understand the wine quality dataset and visualize the results. The key tasks include:
+
+- Reading the data from an Excel file.
+- Calculating a correlation matrix.
+- Performing Principal Component Analysis (PCA) and Factor Analysis (Exploratory).
+- Conducting linear regression to predict wine quality based on principal component scores.
+- Removing outliers using Mahalanobis distance.
+- Visualizing the results using biplots, factor loadings plots, and correlation plots.
+
+
 
 ### 4. **learn_all_chapter**
 
