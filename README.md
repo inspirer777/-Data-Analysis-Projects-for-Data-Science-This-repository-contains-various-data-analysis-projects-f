@@ -47,11 +47,16 @@ This R script performs data analysis using several techniques to understand the 
 
 ### 4. **learn_all_chapter**
 
-This folder contains educational content for learning different chapters of data science techniques. It includes examples and exercises from multiple domains, such as **data preprocessing**, **model evaluation**, and **machine learning algorithms** like decision trees, regression, clustering, and more.
+This folder contains educational content for learning different chapters of data science techniques. It includes examples and exercises from multiple domains, such as **data preprocessing**, regression, clustering, and more.
 
 ### 5. **svm (support vector machine)**
 
 This folder contains a project that applies the **Support Vector Machine (SVM)** algorithm to a dataset. SVM is a supervised machine learning algorithm used for classification and regression tasks. The project explores the mathematical foundations of SVM and implements it on real-world data to classify it into different categories.
 
-## Getting Started
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute this project under the terms of the license.
+
+good luck !
